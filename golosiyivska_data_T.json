@@ -8,7 +8,7 @@
 {"id":8,"name":"Бридня Дмитро","parent":3,"budget":586750,"district":""},
 {"id":9,"name":"Селецький Олександр","parent":3,"budget":2566850,"district":""},
 {"id":10,"name":"Ясочко Юлія","parent":3,"budget":1636374,"district":""},
-{"id":11,"name":"Батанов Юрій","parent":3,"budget":1384756,"district":""},
+{"id":11,"name":"Батанов Юрій","parent":2,"budget":1384756,"district":""},
 {"id":12,"name":"Журавльова Ірина","parent":3,"budget":1219629,"district":""},
 {"id":13,"name":"Губенков Федір","parent":3,"budget":1054400,"district":""},
 {"id":14,"name":"Омельченко Ольга","parent":3,"budget":989184,"district":""},
