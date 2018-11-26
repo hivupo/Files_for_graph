@@ -7,7 +7,7 @@
 {"id":7,"name":"Спітковська Катерина","parent":3,"budget":794400,"district":""},
 {"id":8,"name":"Козак Євгеній","parent":3,"budget":122090,"district":""},
 {"id":9,"name":"Тімченко Катерина","parent":3,"budget":726269,"district":""},
-{"id":10,"name":"Рев'юк Андріян","parent":3,"budget":456756,"district":""},
+{"id":10,"name":"Рев'юк Андріян","parent":2,"budget":456756,"district":""},
 {"id":11,"name":"Литвиненко Тетяна","parent":3,"budget":387000,"district":""},
 {"id":12,"name":"Лаврукевич Володимир","parent":3,"budget":289620,"district":""},
 {"id":13,"name":"Пахомова Наталія","parent":3,"budget":277300,"district":""},
