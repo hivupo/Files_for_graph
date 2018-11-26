@@ -5,7 +5,7 @@
 {"id":5,"name":"Бридня Дмитро","parent":3,"budget":2342757,"district":""},
 {"id":6,"name":"Кравчишин Ігор","parent":3,"budget":2208000,"district":""},
 {"id":7,"name":"Чумаченко Олександр","parent":3,"budget":2208000,"district":""},
-{"id":8,"name":"Рябчинський Артем","parent":3,"budget":1614217,"district":""},
+{"id":8,"name":"Рябчинський Артем","parent":2,"budget":1614217,"district":""},
 {"id":9,"name":"Посівнич Олександр","parent":3,"budget":1395241,"district":""},
 {"id":10,"name":"Ліченко Валентина","parent":3,"budget":1020113,"district":""},
 {"id":11,"name":"Орєхов Денис","parent":3,"budget":971749,"district":""},
