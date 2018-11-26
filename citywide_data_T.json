@@ -15,7 +15,7 @@
 {"id":15,"name":"Голуб Леся","parent":3,"budget":1020000,"district":""},
 {"id":16,"name":"Громова Мирослава","parent":3,"budget":741054,"district":""},
 {"id":17,"name":"Козак Євгеній","parent":3,"budget":616270,"district":""},
-{"id":18,"name":"Онуфрійчук Вадим","parent":3,"budget":720000,"district":""},
+{"id":18,"name":"Онуфрійчук Вадим","parent":2,"budget":720000,"district":""},
 {"id":19,"name":"Степаненко Владислав","parent":3,"budget":628535,"district":""},
 {"id":20,"name":"Корян Юлія","parent":3,"budget":590040,"district":""},
 {"id":21,"name":"Луцька Тетяна","parent":3,"budget":495000,"district":""},
