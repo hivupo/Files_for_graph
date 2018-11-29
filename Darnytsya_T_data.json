@@ -15,7 +15,7 @@
 {"id":15,"name":"Сальник Анатолій","parent":3,"budget":1000000,"district":""},
 {"id":16,"name":"Шарм Александр","parent":3,"budget":933928,"district":""},
 {"id":17,"name":"Войтова Наталія","parent":3,"budget":1022682,"district":""},
-{"id":18,"name":"Росін Олексій","parent":3,"budget":348960,"district":""},
+{"id":18,"name":"Роніс Олексій","parent":2,"budget":348960,"district":""},
 {"id":19,"name":"Малишева Інна","parent":3,"budget":338159,"district":""},
 {"id":20,"name":"Юрченко Наталія","parent":3,"budget":338159,"district":""},
 {"id":21,"name":"Токовенко Аліна","parent":3,"budget":223608,"district":""},
