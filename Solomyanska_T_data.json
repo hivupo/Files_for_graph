@@ -2,7 +2,7 @@
 {"id":2,"name":"gov","parent":1},
 {"id":3,"name":"noGov","parent":1},
 {"id":4,"name":"Маржан Ірина","parent":2,"budget":865000,"district":""},
-{"id":5,"name":"Бридня Дмитро","parent":3,"budget":2342757,"district":""},
+{"id":5,"name":"Брідня Дмитро","parent":3,"budget":2342757,"district":""},
 {"id":6,"name":"Кравчишин Ігор","parent":3,"budget":2208000,"district":""},
 {"id":7,"name":"Чумаченко Олександр","parent":3,"budget":2208000,"district":""},
 {"id":8,"name":"Рябчинський Артем","parent":2,"budget":1614217,"district":""},
